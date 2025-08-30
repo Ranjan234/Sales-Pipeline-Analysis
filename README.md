@@ -37,14 +37,16 @@ You've been asked to perform an analysis of last year's sales. calculating key s
 
 # Objective 2
 <h3>Sales Agent Performance </h3>
+
 - Calculate win rate by agent. Which agent had the highest win rate?
 
 - Calculate total revenue by agent. Which had the highest revenue?**
 
 - Which manager had the highest win rate? Which regional office sold the most units of GTX Plus Pro?
 
-Objective 3
+# Objective 3
 <h3>Product Analysis</h3>
+
 - Which product was the top seller by revenue for deals that closed in March?IS there a difference between the winner by units sold?
 
 - What was the average difference between the sales_price and close_value for each product? Is there an issue with the data here?
@@ -53,6 +55,7 @@ Objective 3
 
 # Objective 4
 <h3>Account Analysis</h3>
+
 - Which office location had the lowest revenue?
 
 - What us the gap, in years, between the oldest and newest company in the book of business?
